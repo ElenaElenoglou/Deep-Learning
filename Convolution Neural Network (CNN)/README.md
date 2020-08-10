@@ -21,4 +21,4 @@ The total number of images available for training the model is 5216 and for test
 * Random zoom
 * Horizontal flips
 
-![DataAugmentation]("https://user-images.githubusercontent.com/60225335/89789620-1f138c80-db21-11ea-8cc4-71fdb4a8b70e.PNG")
+![DataAugmentation](https://user-images.githubusercontent.com/60225335/89789620-1f138c80-db21-11ea-8cc4-71fdb4a8b70e.PNG)
