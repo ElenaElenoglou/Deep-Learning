@@ -21,7 +21,7 @@ The total number of images available for training the model is 5216 and for test
 * Random zoom
 * Horizontal flips
 
-![](readme_resources/DataAugmentation.png)
+![](readme_resources/DataAugmentation.PNG)
 
 ### Network Parameter:
 * Rectifier Linear Unit (ReLU) - Hidden Layers
@@ -29,7 +29,7 @@ The total number of images available for training the model is 5216 and for test
 * Adam optimizer
 * Loss: Categorical Crossentropy
 
-![](readme_resources/NetworkParameter.png)
+![](readme_resources/NetworkParameter.PNG)
 
 ### Visualization of Model Accuracy:
 * Training Set Accuracy: 94.75% 
