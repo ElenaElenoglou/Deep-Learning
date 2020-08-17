@@ -1,4 +1,6 @@
-## Lungs Deseases Classificiation
+# Lungs Deseases Classificiation <h1> 
+![](https://img.shields.io/badge/Dataset-Kaggle-blue)  ![](https://img.shields.io/badge/Python-3.6-red)   ![](https://img.shields.io/badge/Library-TensorFlow-ff69b4)
+
 
 ### Problem Statement: 
 Implement an algorithm to classify whether pneumonia is detected in lungs X-ray images.
