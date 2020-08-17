@@ -7,7 +7,7 @@
 Implement an algorithm to classify whether pneumonia is detected in lungs X-ray images.
 
 ### Dataset:
-The total number of images available for training the model is 5216 and for testing the model is 624 images.
+The total number of images available for training the model is 5216 and for testing the model is 624 images.<br/>
  • Dataset Link: https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia?
 
 ### Dependencies:
