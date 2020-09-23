@@ -6,7 +6,7 @@
 Classifying bank customers based on their previous banking activities, neither they will leave the bank or not
 
 ### Resources Used
-* Packages: pandas, numpy, sklearn, Keras, matplotlib, seaborn
+* Packages: google.colab, pandas, numpy, sklearn, Keras, matplotlib, seaborn
 * Dataset: https://www.superdatascience.com/pages/deep-learning
 
 
