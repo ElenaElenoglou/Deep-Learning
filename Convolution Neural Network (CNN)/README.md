@@ -16,6 +16,7 @@ The total number of images available for training the model is 5216 and for test
 * Python - 3.6
 * Pandas
 * Numpy
+* VGG16
 * Matplotlib
 * Glob
 
