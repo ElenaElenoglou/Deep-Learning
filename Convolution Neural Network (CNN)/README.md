@@ -12,7 +12,6 @@ The total number of images available for training the model is 5216 and for test
 
 ### Dependencies:
 * Keras
-* Tensorflow - 2.2.0
 * Python - 3.6
 * Pandas
 * Numpy
