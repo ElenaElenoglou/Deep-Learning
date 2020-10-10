@@ -24,5 +24,5 @@ Classifying bank customers based on their previous banking activities, neither t
 
 ### Predictions
 
-![](Readme_resources/Predictions.png)
+![](Readme_resources/Predictions.PNG)
 
