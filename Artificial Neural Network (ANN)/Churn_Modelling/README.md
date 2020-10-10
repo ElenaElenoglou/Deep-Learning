@@ -20,6 +20,6 @@ Classifying bank customers based on their previous banking activities, neither t
 
 
 ![](Readme_resources/confusion_matrix.png) <br/>
-![](Readme_resources/accuracy.png= 50x) 
+![](Readme_resources/accuracy.png){:height="36px" width="36px"} 
 ![](Readme_resources/loss.png)
 
