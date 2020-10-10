@@ -9,4 +9,16 @@ Classifying bank customers based on their previous banking activities, neither t
 * Packages: google.colab, pandas, numpy, sklearn, Keras, matplotlib, seaborn
 * Dataset: https://www.superdatascience.com/pages/deep-learning
 
+### Network Parameters
+* Rectifier Linear Unit (ReLU) - Hidden Layers
+* Sigmoid - Output Layer
+* Adam optimizer
+* Loss: Categorical Crossentropy
+* binary_crossentropy
+
+### Model Evaluation
+
+* confusion Matrix
+![](Readme_resources/confusion_matrix.png)
+![](Readme_resources/accuracy.png)   ![](Readme_resources/loss)
 
