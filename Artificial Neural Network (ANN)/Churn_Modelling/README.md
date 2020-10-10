@@ -18,8 +18,11 @@ Classifying bank customers based on their previous banking activities, neither t
 
 ### Model Evaluation
 
-
 ![](Readme_resources/confusion_matrix.png) <br/>
-![20%](Readme_resources/accuracy.png)
-![50%](Readme_resources/loss.png)
+
+![](Readme_resources/accuracy.png)![](Readme_resources/loss.png)
+
+### Predictions
+
+![](Readme_resources/Predictions.png)
 
