@@ -3,7 +3,7 @@
 ![](https://img.shields.io/badge/Dataset-Kaggle-blue)  ![](https://img.shields.io/badge/Python-3.6-red)   ![](https://img.shields.io/badge/Library-Keras-ff69b4)
 
 ### Problem Statement 
-Classifying bank customers based on their previous banking activities, neither they will leave the bank or not
+Classifying bank customers based on their previous banking activities, whether they leave the bank or not
 
 ### Resources Used
 * Packages: google.colab, pandas, numpy, sklearn, Keras, matplotlib, seaborn
