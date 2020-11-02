@@ -17,9 +17,15 @@ Classifying bank customers based on their previous banking activities, whether t
 * binary_crossentropy
 
 ### Model Evaluation
+p align="left">
+<img src="https://github.com/ElenaElenoglou/Machine-Learning/blob/master/Heart%20Disease%20Prediction/readme_resources/dataset_balance.png" />  
+</p>
 
-![](Readme_resources/confusion_matrix.png)
-<img align="https://github.com/ElenaElenoglou/Deep-Learning-Projects/blob/master/Artificial%20Neural%20Network%20(ANN)/Churn_Modelling/Readme_resources/accuracy.png">
+
+<p align="left">
+  <img src="https://github.com/ElenaElenoglou/Deep-Learning-Projects/blob/master/Artificial%20Neural%20Network%20(ANN)/Churn_Modelling/Readme_resources/confusion_matrix.png" />  
+  <img src="/https://github.com/ElenaElenoglou/Deep-Learning-Projects/blob/master/Artificial%20Neural%20Network%20(ANN)/Churn_Modelling/Readme_resources/accuracy.png" />  
+</p>
 
 ### Predictions
 
