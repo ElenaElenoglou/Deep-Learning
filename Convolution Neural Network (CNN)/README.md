@@ -38,12 +38,17 @@ The total number of images available for training the model is 5216 and for test
 * Training Set Accuracy: 94.75% 
 * Validation Accuracy: 90.87%
 
-![](Readme_resources/Accuracy.png)
+<p align="center">
+<img src="https://github.com/ElenaElenoglou/Deep-Learning-Projects/blob/master/Convolution%20Neural%20Network%20(CNN)/Readme_resources/Accuracy.png" />
+</p>
 
 ### Visualization of Model Loss:
 * Training Set Loss: 0.1333
 * Validation Loss: 0.3425
 
-![](Readme_resources/Loss.png)
+<p align="center">
+<img src="https://github.com/ElenaElenoglou/Deep-Learning-Projects/blob/master/Convolution%20Neural%20Network%20(CNN)/Readme_resources/Loss.png" />
+</p>
+
 
 
