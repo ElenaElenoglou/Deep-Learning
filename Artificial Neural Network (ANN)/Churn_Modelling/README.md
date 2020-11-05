@@ -21,6 +21,20 @@ Classifying bank customers based on their previous banking activities, whether t
 <img src="https://github.com/ElenaElenoglou/Deep-Learning-Projects/blob/master/Artificial%20Neural%20Network%20(ANN)/Churn_Modelling/Readme_resources/confusion_matrix.png" width="430"/> <img src="https://github.com/ElenaElenoglou/Deep-Learning-Projects/blob/master/Artificial%20Neural%20Network%20(ANN)/Churn_Modelling/Readme_resources/accuracy.png" width="430"/>  
 </p>
 
+Visualization of Model Accuracy
+* Training Set Accuracy: 86.73%
+* Validation Accuracy: 85.80%
+
+<p align="center">
+<img src="https://github.com/ElenaElenoglou/Deep-Learning-Projects/blob/master/Artificial%20Neural%20Network%20(ANN)/Churn_Modelling/Readme_resources/accuracy.png" width="430"/>  </p>
+
+Visualization of Model Loss:
+* Training Set Loss: 0.3243
+* Validation Loss: 0.3595
+
+<p align="center">
+<img src="https://github.com/ElenaElenoglou/Deep-Learning-Projects/blob/master/Artificial%20Neural%20Network%20(ANN)/Churn_Modelling/Readme_resources/loss.png" width="430"/>  </p>
+
 ### Predictions
 
 ![](Readme_resources/Predictions.PNG)
