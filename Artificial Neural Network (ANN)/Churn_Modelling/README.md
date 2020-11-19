@@ -13,8 +13,7 @@ Classifying bank customers based on their previous banking activities, whether t
 * Rectifier Linear Unit (ReLU) - Hidden Layers
 * Sigmoid - Output Layer
 * Adam optimizer
-* Loss: Categorical Crossentropy
-* binary_crossentropy
+* Loss: binary_crossentropy
 
 ### Model Evaluation
 <p align="center">
